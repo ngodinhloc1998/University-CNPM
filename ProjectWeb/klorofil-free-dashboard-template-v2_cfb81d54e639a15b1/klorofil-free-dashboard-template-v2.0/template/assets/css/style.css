@@ -1,0 +1,34 @@
+#order{
+    display: none;
+}
+#importProduct{
+    width: 30%;
+}
+
+#importTables th,#importTables td{
+    text-align: center;
+}
+
+
+#importRepository{
+    display: none;
+}
+
+
+.editTables{
+    margin-bottom: 10px;
+}
+
+.buttonTables{
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+
+.button-space{
+    padding-top: 10px;
+}
+
+.width-input-edit{
+    width: 30%;
+}
